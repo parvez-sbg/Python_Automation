@@ -1,3 +1,4 @@
+###  python code to find the sum of numbers existing in a given string using Regex #######
 import re
 string="ansb10kdjdh90jdkdk100"
 pattern='\d+'
